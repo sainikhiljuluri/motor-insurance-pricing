@@ -52,8 +52,5 @@ jupyter notebook notebook/motor_pricing_project.ipynb
 streamlit run dashboard/app.py
 ```
 
-## Author
-Abdellah El Khamlichi — Master's in Finance, Actuarial Science & Data Science
-
 ## License
 MIT
